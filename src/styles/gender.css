@@ -1,0 +1,24 @@
+.gender{
+    position: relative;
+    left:5%;
+    margin-top: 10px;
+    display: block;
+    right:5%;
+    width:90%;
+
+}
+.gender_names{
+   
+    position: relative;
+    left:10%;
+    
+}
+.gender input{
+    display: inline-block;
+    left:0;
+    height: 15px;
+}
+.gender .gender_names{
+    font-size: 15px;
+    display: inline-table
+}

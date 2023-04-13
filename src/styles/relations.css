@@ -1,0 +1,23 @@
+.relations{
+    margin-top: 10px;
+    position: relative;
+    left:5%;
+}
+
+.relations input{
+    display: inline-block;
+    width:200px;
+    margin-left: 10px;
+}
+.rel_add{
+    margin-left: 20px;
+    border-radius: 50%;
+    font-size: 27px;
+    border:0;
+    color:#000C66;
+   
+}
+.rel_del{
+    color:#000C66;
+    margin-left: 10px;
+}

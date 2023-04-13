@@ -1,0 +1,25 @@
+label{
+    font-size: 25px;
+}
+input{
+    margin-top: 10px;
+    height: 25px;
+    width:60%;
+    display:block
+}
+span{
+    color:#FF0000;
+    position: relative;
+
+}
+.inputbox{
+    margin-top: 10px;
+    position: relative;
+    width:90%;
+   left:5%;
+   right:5%;
+}
+
+input:focus {
+    outline:none;
+}

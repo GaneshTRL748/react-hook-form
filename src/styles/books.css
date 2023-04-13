@@ -1,0 +1,18 @@
+.books{
+   
+    position: relative;
+    left:5%;
+    width:90%;
+    margin-top: 20px;
+  
+}
+.books .books_name{
+    font-size: 20px;
+    display: block;
+    margin-left: 0;
+}
+.books input{
+    height: 15px;
+    display: inline-block;
+    width:50px;
+}
